@@ -1,0 +1,95 @@
+::selection {
+  background: darkgoldenrod;
+  color: black;
+}
+body{
+  background: linear-gradient(60deg,#5B66EC,#E262FF);
+  background-repeat: no-repeat;
+  height: 93vh;
+}
+
+.container {
+  width: 20rem;
+  height: 23rem;
+  border-radius: 1rem;
+  background: #D2E1FC;
+  margin: auto;
+  margin-top: 8rem;
+  box-shadow: 0 0 25px #FF8888;
+}
+
+input {
+  width: 16rem;
+  border-radius: 4px;
+  margin-top: 2rem;
+  margin-left: 0.9rem;
+  padding: 15px 15px;
+  margin-bottom: 0.5rem;
+  border: 0.1px solid #D2E1FC;
+  background: #D2E1FC;
+  box-shadow: 0 0 8px dimgrey;
+  font-size: 1.7rem;
+}
+
+input:hover {
+  background: black;
+  color: white;
+  border: solid black;
+}
+
+button {
+  width: 40px;
+  height: 30px;
+  border: 1px #D2E1FC;
+  border-radius: 6px;
+  text-align: center;
+  background: #D2E1FC;
+  box-shadow: 0 0 2px seagreen;
+  font-size: 0.8rem;
+  margin: 5px 5px;
+}
+
+button:hover {
+  background: #21125F;
+  border: #21125F;
+  color: white;
+}
+
+.piker2 {
+  color: white;
+  background-color: dodgerblue;
+  border: dodgerblue;
+  border-radius: 16px;
+}
+
+.piker2:hover {
+  color: white;
+  background: #737F0D;
+  border: solid #737F0D;
+}
+
+.piker3 {
+  color: white;
+  background-color: #0FD176;
+  border: #0FD176;
+  border-radius: 16px;
+}
+
+.piker3:hover {
+  background: deeppink;
+  color: white;
+  border: solid deeppink;
+}
+.func{
+  background: #7D59FF;
+  color: white;
+  border-radius: 16px;
+}
+.func:hover{
+  background: #E69555;
+  color: white;
+}
+table {
+  margin: auto;
+  margin-top: 20px;;
+}
